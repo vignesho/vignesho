@@ -15,7 +15,7 @@
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=vignesho&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vignesho)
+[![Github](https://img.shields.io/badge/-Vignesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vignesho)
 
 <!-- Sample Dev class image -->
 
