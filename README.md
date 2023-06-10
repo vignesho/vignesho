@@ -14,8 +14,8 @@
 [![Instagram](https://img.shields.io/badge/-Vignesh-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/00vignesh00)
 
 <!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/JoykishanSharma)
+![](https://komarev.com/ghpvc/?username=vignesho&style=flat)
+[![Github](https://img.shields.io/badge/-JoykishanSharma-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/vignesho)
 
 <!-- Sample Dev class image -->
 
