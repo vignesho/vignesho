@@ -35,10 +35,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vignesho">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+         src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
@@ -71,11 +68,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
+<h4 align="center"> Thanks for Visiting!:innocent:</h4> 
 
 
 <!-- ### Hi there 👋 I am Vignesh 
