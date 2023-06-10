@@ -30,7 +30,6 @@
 * Adapting the minimalism life style
 
 
-  <a href="https://gitstats.me/vignesho">
    
          
     
@@ -39,7 +38,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+   <a href="https://gitstats.me/vignesho">
   <img width="500" height="auto" align="left" alt="Vignesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a>
   <br></br>
@@ -50,7 +49,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vsurya30&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vignesho&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
