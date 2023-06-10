@@ -31,8 +31,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Adapting the minimalism life style
 * 🔜
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
+ <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vignesho">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
@@ -40,8 +39,6 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
  <!-- icons -->
 <h4 align="center"> Thanks for Visiting!:innocent:</h4> 
 
-
-<!-- ### Hi there 👋 I am Vignesh 
 
 
 - 🔭 I’m currently working on ...  C, HTML, CSS, BOOTSTRAP, JS, ANGULAR, SQL. 
