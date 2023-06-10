@@ -32,7 +32,6 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 * Adapting the minimalism life style
 * 🔜
 
- <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/vignesho">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
