@@ -28,21 +28,15 @@
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
-
-
-   
-         
-    
-<br><br><br>
-
+       
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
    <a href="https://gitstats.me/vignesho">
+    <h3 align="left"> My Github Stats </h3>
   <img width="500" height="auto" align="left" alt="Vignesh's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=light&count_private=true&include_all_commits=true" /></a>
-  <br></br>
- 
+  <br> 
 <h3 align="left">Streak</h3>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesho&" alt="Vignesh" />
 </td>
