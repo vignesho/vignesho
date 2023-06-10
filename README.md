@@ -7,11 +7,11 @@
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-98ba35160/)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:neshvig898@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Viggy0)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/h20161341)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/00vignesh00)
+[![Linkedin](https://img.shields.io/badge/-Vignesh S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-98ba35160/)
+[![Gmail](https://img.shields.io/badge/-Vignesh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:neshvig898@gmail.com)
+[![Telegram](https://img.shields.io/badge/-@Viggy0-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Viggy0)
+[![HackerRank](https://img.shields.io/badge/-Vignesh S-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/h20161341)
+[![Instagram](https://img.shields.io/badge/-Vignesh-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/00vignesh00)
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
