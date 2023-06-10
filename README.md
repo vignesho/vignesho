@@ -21,6 +21,7 @@
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
+* Learning Back-End Web:computer: Development
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
@@ -40,7 +41,7 @@ Since the world is in the quarantine stage:earth_asia:, and I’m having lots of
 <h4 align="center"> Thanks for Visiting!:innocent:</h4> 
 
 
-
+<!-- 
 - 🔭 I’m currently working on ...  C, HTML, CSS, BOOTSTRAP, JS, ANGULAR, SQL. 
 - 🌱 I’m currently learning ... LAMP STACK, REACT JS. 
 - 👯 I’m looking to collaborate on ...
