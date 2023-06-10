@@ -7,7 +7,7 @@
 
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-Vignesh S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-98ba35160/)
+[![Linkedin](https://img.shields.io/badge/-Vignesh S-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-s-98ba35160)
 [![Gmail](https://img.shields.io/badge/-Vignesh-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:neshvig898@gmail.com)
 [![Telegram](https://img.shields.io/badge/-@Viggy0-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Viggy0)
 [![HackerRank](https://img.shields.io/badge/-Vignesh S-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/h20161341)
