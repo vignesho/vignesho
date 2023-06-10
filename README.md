@@ -20,17 +20,16 @@
 <!-- Sample Dev class image -->
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning Back-End Web:computer: Development
-* 🔜
+* Learning Front-End Web: <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/2721/2721616.png"> : Development
+* Learning Back-End Web: <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png"> : Development
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+ I set a couple of self-challenges in order to push myself more further.:running: 
 
 * Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism life style
-* 🔜
+
 
   <a href="https://gitstats.me/vignesho">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
