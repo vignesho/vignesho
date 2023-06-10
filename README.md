@@ -31,12 +31,31 @@
 
 
   <a href="https://gitstats.me/vignesho">
-    <img width="500" height="auto" align="left" alt="Vignesh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a>
+   
          
-    <h3 align="left">Streak</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesho&" alt="Vignesh" />
+    
 <br><br><br>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img width="500" height="auto" align="left" alt="Vignesh's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a>
+  <br></br>
+ 
+<h3 align="left">Streak</h3>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vignesho&" alt="Vignesh" />
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vsurya30&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
 <h4 align="center"> Thanks for Visiting!:innocent:</h4> 
 
 
