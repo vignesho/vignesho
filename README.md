@@ -19,8 +19,8 @@
 <!-- Sample Dev class image -->
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web: <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/2721/2721616.png"> : Development
-* Learning Back-End Web: <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png"> : Development
+* Learning Front-End Web <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/2721/2721616.png">  Development
+* Learning Back-End Web <img width="23" height="23" alt="front end logo" src="https://cdn-icons-png.flaticon.com/512/3668/3668474.png">  Development
 
 ### 🌱 Challenges that I’m currently challenging myself:
  I set a couple of self-challenges in order to push myself more further.:running: 
