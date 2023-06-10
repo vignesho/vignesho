@@ -40,7 +40,7 @@
 <td width="50%" align="center">
    <a href="https://gitstats.me/vignesho">
   <img width="500" height="auto" align="left" alt="Vignesh's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" /></a>
+         src="https://github-readme-stats.vercel.app/api?username=vignesho&show_icons=true&theme=light&count_private=true&include_all_commits=true" /></a>
   <br></br>
  
 <h3 align="left">Streak</h3>
