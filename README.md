@@ -18,16 +18,17 @@
 
 <hr>
 <h3>Skills</h3>
-<table align="center">
+<table align="center" height="auto">
 <tbody>
  
  <tr>
+  
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
 <img height=60px src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"> 
 </td>
   
-  <td align="center" width="20%">
+  <td align="center" width="20%" >
 <span><b><center>Python</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"> 
 </td>
@@ -37,10 +38,9 @@
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png"> 
 </td>
  </tr>
-  
-<tr>
  
- <td align="center" width="20%">
+<tr>
+  <td align="center" width="20%">
 <span><b><center>CSS</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1200px-CSS3_logo.svg.png"> 
 </td>
