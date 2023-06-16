@@ -65,7 +65,24 @@
 <span><b><center>PHP</center></b></span> 
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> 
 </td>
-  <td></td>
+  <td align="center" width="20%">
+   <span><b><center>Angular</center></b></span> 
+  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"> 
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="20%">
+      <span><b><center>Postman</center></b></span> 
+  <img height=60px src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"> 
+  </td>
+  <td align="center" width="20%">
+      <span><b><center>Figma</center></b></span> 
+  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"> 
+  </td>
+   <td align="center" width="20%">
+      <span><b><center>Nicepage</center></b></span> 
+  <img height=60px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_abcefefd1edd4d99ece7f5a255da2df6/nicepage.png"> 
+  </td>
  </tr>
 </tbody>
 </table>
