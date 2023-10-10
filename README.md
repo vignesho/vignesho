@@ -73,7 +73,7 @@
  <tr>
   <td align="center" width="20%">
       <span><b><center>Postman</center></b></span> 
-  <img height=60px src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png"> 
+  <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"> 
   </td>
   <td align="center" width="20%">
       <span><b><center>Figma</center></b></span> 
@@ -82,6 +82,12 @@
    <td align="center" width="20%">
       <span><b><center>Nicepage</center></b></span> 
   <img height=60px src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_abcefefd1edd4d99ece7f5a255da2df6/nicepage.png"> 
+  </td>
+ </tr>
+ <tr>
+  <td align="center" width="20%">
+      <span><b><center>Django</center></b></span> 
+  <img height=60px src="https://raditycmswebsite-live-5f5ab2ec57ec4907b-b52c0bb.divio-media.net/filer_public/a3/fc/a3fc3cfa-c304-435f-b1f8-49bd8e491bef/django-logo.png"> 
   </td>
  </tr>
 </tbody>
